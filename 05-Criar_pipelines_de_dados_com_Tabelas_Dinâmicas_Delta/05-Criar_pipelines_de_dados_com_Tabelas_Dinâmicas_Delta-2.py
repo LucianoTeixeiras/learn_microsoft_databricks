@@ -1,6 +1,5 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC %md
 # MAGIC Link Task to Execute
 # MAGIC
 # MAGIC <a href="https://microsoftlearning.github.io/mslearn-databricks/Instructions/Exercises/LA-05-Build-data-pipeline.html">Link Task to Execute</a>
