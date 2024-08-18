@@ -85,12 +85,12 @@ spark.sql("DESCRIBE EXTENDED AdventureWorks.ProductsManaged").show(truncate=Fals
 
 # COMMAND ----------
 
-# MAGIC  %sh
-# MAGIC  echo "External table:"
-# MAGIC  ls /dbfs/delta/products-delta
-# MAGIC  echo
-# MAGIC  echo "Managed table:"
-# MAGIC  ls /dbfs/user/hive/warehouse/adventureworks.db/productsmanaged
+# MAGIC %sh
+# MAGIC echo "External table:"
+# MAGIC ls /dbfs/delta/products-delta
+# MAGIC echo
+# MAGIC echo "Managed table:"
+# MAGIC ls /dbfs/user/hive/warehouse/adventureworks.db/productsmanaged
 
 # COMMAND ----------
 
